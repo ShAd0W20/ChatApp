@@ -306,7 +306,7 @@ class Zipper {
   <title>File Unzipper + Zipper</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <style type="text/css">
-    <!--
+    
     body {
       font-family: Arial, sans-serif;
       line-height: 150%;
@@ -385,7 +385,6 @@ class Zipper {
       background-color: #2c6db2;
       cursor: pointer;
     }
-    -->
   </style>
 </head>
 <body>
